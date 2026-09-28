@@ -30,5 +30,5 @@ python app/servicio.py            # http://127.0.0.1:8080
 | `requirements.in` | Dependencias **directas** (lo que el equipo decidió usar) |
 | `requirements.txt` | *Lockfile*: TODAS las dependencias, directas y transitivas, con versión exacta |
 
-Autor/a: ESCRIBE_AQUÍ_TU_NOMBRE_Y_APELLIDOS
+Autor: Antonio López Ros
 Profesor: Dr. Richard Avilés López
