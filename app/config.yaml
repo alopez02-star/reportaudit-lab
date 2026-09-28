@@ -1,6 +1,6 @@
 servicio:
   nombre: ReportAudit
-  puerto: 8080
+  puerto: 8087
   entorno: produccion
 
 almacenamiento:
